@@ -1,11 +1,11 @@
-,Unnamed: 0.1,Unnamed: 0,Name,Age,Country,Gender,Salary,Tax(in %),Salary_in_hand,Rank,Id
-0,0,0,Ahmed Khan,45,IN,F,73000,20,58400,1,6
-1,1,1,Ahmed Khan,38,IN,M,68000,20,54400,2,7
-2,2,2,Rachel Lee,29,US,F,62000,20,49600,3,8
-3,3,3,Jane Smith,29,CAN,F,62000,20,49600,3,2
-4,4,4,Emily Davis,31,US,F,58000,20,46400,4,10
-5,5,5,John Doe,29,US,M,55000,20,44000,5,1
-6,6,6,Li Wei,27,US,M,51000,20,40800,6,5
-7,7,7,Alex,27,US,U,47000,20,37600,7,3
-8,8,8,Carlos Ruiz,27,Mxco,M,45000,20,36000,8,9
-9,9,9,Maria Garcia,34,SPN,F,45000,10,36000,8,4
+,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,Name,Age,Country,Gender,Salary,Tax(in %),Salary_in_hand,Rank,Id
+0,0,0,0,Ahmed Khan,45,IN,F,73000,20,58400,1,6
+1,1,1,1,Ahmed Khan,38,IN,M,68000,20,54400,2,7
+2,2,2,2,Rachel Lee,29,US,F,62000,20,49600,3,8
+3,3,3,3,Jane Smith,29,CAN,F,62000,20,49600,3,2
+4,4,4,4,Emily Davis,31,US,F,58000,20,46400,4,10
+5,5,5,5,John Doe,29,US,M,55000,20,44000,5,1
+6,6,6,6,Li Wei,27,US,M,51000,20,40800,6,5
+7,7,7,7,Alex,27,US,U,47000,20,37600,7,3
+8,8,8,8,Carlos Ruiz,27,Mxco,M,45000,20,36000,8,9
+9,9,9,9,Maria Garcia,34,SPN,F,45000,10,36000,8,4
